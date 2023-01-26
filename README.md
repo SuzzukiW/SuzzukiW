@@ -1,4 +1,4 @@
-# Welcome to SuzzukiW's Space
+# Welcome! 
 
 <!---
 SuzzukiW/SuzzukiW is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
