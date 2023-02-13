@@ -2,7 +2,7 @@
 
 **I'm SuzzukiW. I can build many stuffs but also break them.**
 
-![BU](https://img.shields.io/badge/STUDENT%20AT-BOSTON%20UNIVERSITY-red)
+![BU](https://img.shields.io/badge/STUDENT%20AT-BOSTON%20UNIVERSITY-red?style=for-the-badge&logo)
 
 
 
