@@ -3,6 +3,7 @@
 **I'm SuzzukiW. I can build many stuffs but also break them.**
 
 ![BU](https://img.shields.io/badge/STUDENT%20AT-BOSTON%20UNIVERSITY%20Faculty%20of%20Computing%20%26%20Data%20Sciences-red?style=for-the-badge&logo)
+![Also a student at Boston University Pardee School](https://img.shields.io/badge/Also%20a%20student%20at-Boston%20University%20Frederick%20S.%20Pardee%20School%20of%20Global%20Studies-red?style=for-the-badge)
 ![Class of 2026](https://img.shields.io/badge/Class%20of-2026-blue?style=for-the-badge&logo=graduation-cap)
 ![Powered by Coffee](https://img.shields.io/badge/Powered%20by-Coffee-brown?style=for-the-badge&logo=coffee)
 
