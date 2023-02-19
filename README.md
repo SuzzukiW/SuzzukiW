@@ -7,6 +7,11 @@
 ![Class of 2026](https://img.shields.io/badge/Class%20of-2026-blue?style=for-the-badge&logo=graduation-cap)
 ![Powered by Coffee](https://img.shields.io/badge/Powered%20by-Coffee-brown?style=for-the-badge&logo=coffee)
 
+### Recent Projects
+
+- DS 210 Graph Analysis Project
+- DS 121 Course Website
+- A Brand New Website for BU School of Law
 
 
 ### Something I try to use
