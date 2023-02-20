@@ -11,7 +11,7 @@
 
 - DS 210 Graph Analysis Project
 - DS 121 Course Website
-- A Brand New Website for BU School of Law
+- A Brand New Website (hopefully) for BU School of Law
 
 
 ### Something I try to use
