@@ -9,9 +9,10 @@
 
 ### Recent Projects
 
-- DS 210 Graph Analysis Project
-- DS 121 Course Website
-- A Brand New Website (hopefully) for BU School of Law
+- A Graph Analysis Project
+- A Course Website
+- Project LawScape
+- Neural Network Experiments & Exploration
 
 
 ### Something I try to use
