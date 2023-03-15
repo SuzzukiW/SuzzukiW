@@ -46,7 +46,7 @@
 ![Material Design](https://img.shields.io/badge/Material_Design-757575?style=for-the-badge&logo=material-design&logoColor=white)
 ![Mendeley](https://img.shields.io/badge/Mendeley-8B8E90?style=for-the-badge&logo=mendeley&logoColor=white)
 
-### Aha Moments
+### Let's Get Rusty
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Rust Cargo](https://img.shields.io/badge/Rust_Cargo-5E5E5E?style=for-the-badge&logo=rust&logoColor=white)
 
