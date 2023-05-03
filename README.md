@@ -9,8 +9,9 @@
 ### Recent Projects
 
 - AnalyticaHub
+- Schaubild Analytica
 - CRP-ML
-- Project LawScape
+- LawScape
 
 ### Feel free to check it out
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xfu22/)
