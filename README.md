@@ -9,7 +9,7 @@
 ### Recent Projects
 
 - AnalyticaHub
-- [Schaubild Analytica[https://github.com/SuzzukiW/CRNSA]
+- [Schaubild Analytica](https://github.com/SuzzukiW/CRNSA)
 - [CRP-ML](https://github.com/SuzzukiW/CRP-ML)
 - LawScape
 
