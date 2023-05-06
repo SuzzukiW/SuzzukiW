@@ -9,35 +9,12 @@
 ### Recent Projects
 
 - AnalyticaHub
-- Schaubild Analytica
-- CRP-ML
+- [Schaubild Analytica[(https://github.com/SuzzukiW/CRNSA)]
+- [CRP-ML](https://github.com/SuzzukiW/CRP-ML)
 - LawScape
 
 ### Feel free to check it out
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xfu22/)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=3CzDreAAAAAJ&hl=en&authuser=1)
 [![Apple Music](https://img.shields.io/badge/Apple_Music-9933CC?style=for-the-badge&logo=apple-music&logoColor=white)](https://music.apple.com/profile/thisisxfu)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!---
-SuzzukiW/SuzzukiW is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
