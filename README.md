@@ -9,6 +9,7 @@
 ### Recent Projects
 
 - Course API
+- Akademisch
 - AnalyticaHub
 - [Schaubild Analytica](https://github.com/SuzzukiW/CRNSA)
 - [CRP-ML](https://github.com/SuzzukiW/CRP-ML)
