@@ -9,12 +9,13 @@
 ### Recent Projects
 
 - Course API
+- A Recommender System
 - Akademisch
+- Nomos
 - Tahoe
 - AnalyticaHub
 - [Schaubild Analytica](https://github.com/SuzzukiW/CRNSA)
 - [CRP-ML](https://github.com/SuzzukiW/CRP-ML)
-- Nomos
 
 ### Feel free to check it out
 
