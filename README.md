@@ -8,6 +8,7 @@
 
 ### Recent Projects
 
+- [CovasimGPT](https://chat.openai.com/g/g-1MYIjAM8I-covasimgpt)
 - Course API
 - A Recommender System
 - Akademisch
