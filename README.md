@@ -9,6 +9,7 @@
 ### Recent Projects
 
 - [CovasimGPT](https://chat.openai.com/g/g-1MYIjAM8I-covasimgpt)
+  - A specialized adaptation of the ChatGPT model, tailored to interact with and provide insights about the Covasim tool, a comprehensive, flexible, and user-friendly COVID-19 epidemic model
 - Course API
 - A Recommender System
 - Akademisch
