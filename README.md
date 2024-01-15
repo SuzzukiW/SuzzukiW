@@ -12,6 +12,7 @@
   - A specialized adaptation of the ChatGPT model, tailored to interact with and provide insights about the Covasim tool, a comprehensive, flexible, and user-friendly COVID-19 epidemic model
 - [BU Course CLI](https://github.com/SuzzukiW/bu-course-cli)
   - A command line tool for retrieving course information at Boston University
+- Building a Better MBTA App
 - A Recommender System
 - Akademisch
 - Nomos
