@@ -10,7 +10,8 @@
 
 - [CovasimGPT](https://chat.openai.com/g/g-1MYIjAM8I-covasimgpt)
   - A specialized adaptation of the ChatGPT model, tailored to interact with and provide insights about the Covasim tool, a comprehensive, flexible, and user-friendly COVID-19 epidemic model
-- Course CLI
+- [Course CLI](https://github.com/SuzzukiW/bu-course-cli)
+  - A command line tool for retrieving course information at Boston University
 - A Recommender System
 - Akademisch
 - Nomos
