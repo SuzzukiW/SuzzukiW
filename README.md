@@ -13,7 +13,8 @@
 - [BU Course CLI](https://github.com/SuzzukiW/bu-course-cli)
   - A command line tool for retrieving course information at Boston University
 - Scottsdale - Building a Better MBTA App
-- A Recommender System
+- The Machine
+- The Recommender System
 - Akademisch
 - Nomos
 - Tahoe
