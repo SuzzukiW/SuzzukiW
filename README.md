@@ -8,19 +8,20 @@
 
 ### Recent Projects
 
-- [CovasimGPT](https://chat.openai.com/g/g-1MYIjAM8I-covasimgpt)
+- [SICE](https://github.com/SuzzukiW/SICE)
+- [Chandler]("")
+- [BU One]("")
+- [Lakewood]("")
+- [Tahoe]("")
+- [Scottsdale]("")
 - [BU Course CLI](https://github.com/SuzzukiW/bu-course-cli)
+- [CovasimGPT](https://chat.openai.com/g/g-1MYIjAM8I-covasimgpt)
 - [Sacaton - DS 310 Final Project](https://github.com/SuzzukiW/Sacaton)
 - [CRNSA - DS 210 Final Project](https://github.com/SuzzukiW/CRNSA)
 - [CRP-ML - DS 110 Final Project](https://github.com/SuzzukiW/CRP-ML)
-- BU One
 - CantonNet
-- Scottsdale - Building a Better MBTA App
 - The Machine
 - The Recommender System
-- Akademisch
-- Nomos
-- Tahoe
 - AnalyticaHub
 
 ### Feel free to check it out
