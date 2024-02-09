@@ -9,9 +9,10 @@
 ### Recent Projects
 
 - [CovasimGPT](https://chat.openai.com/g/g-1MYIjAM8I-covasimgpt)
-  - A specialized adaptation of the ChatGPT model, tailored to interact with and provide insights about the Covasim tool, a comprehensive, flexible, and user-friendly COVID-19 epidemic model
 - [BU Course CLI](https://github.com/SuzzukiW/bu-course-cli)
-  - A command line tool for retrieving course information at Boston University
+- [Sacaton - DS 310 Final Project](https://github.com/SuzzukiW/Sacaton)
+- [CRNSA - DS 210 Final Project](https://github.com/SuzzukiW/CRNSA)
+- [CRP-ML - DS 110 Final Project](https://github.com/SuzzukiW/CRP-ML)
 - BU One
 - CantonNet
 - Scottsdale - Building a Better MBTA App
@@ -21,8 +22,6 @@
 - Nomos
 - Tahoe
 - AnalyticaHub
-- [Schaubild Analytica](https://github.com/SuzzukiW/CRNSA)
-- [CRP-ML](https://github.com/SuzzukiW/CRP-ML)
 
 ### Feel free to check it out
 
