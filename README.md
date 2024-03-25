@@ -1,6 +1,6 @@
 # Welcome!
 
-**I'm SuzzukiW. I can build many stuffs but also break them.**
+**I'm SuzzukiW. I can build many things but also break them.**
 
 Currently ambitiously (and perhaps a tad recklessly) teaching computers to think, see, and do like a human.
 
